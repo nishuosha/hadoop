@@ -1,0 +1,57 @@
+研究背景
+
+课题意义
+
+
+技术栈
+
+java
+
+云服务器
+
+	123.206.81.60
+
+spring boot
+	定义
+	优点 简化开发，开箱即用
+
+Git
+
+Maven
+
+
+
+spring
+	ioc aop
+
+mybatis
+	mapper 连接池
+	数据映射
+
+bootstrap
+	样式
+
+
+jquery
+	前端操作
+
+拦截器权限控制
+
+freemarker模板引擎
+	静态页面
+	与jsp的区别
+
+mvc
+
+数据库表结构
+
+	user admin reserve park
+
+流程图
+
+邮件发送
+
+微信绑定 没有独立服务器
+
+
+
