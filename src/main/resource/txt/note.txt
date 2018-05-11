@@ -1,0 +1,33 @@
+
+1，美团云
+
+ctrl + space : 代码补全
+commond + shift + return 行末分号
+commond + p 显示方法参数
+ctrl + j 查看文档
+commond + f1 显示错误信息
+ctrl+ n 构造方法
+ctrl + o 覆盖方法
+ctrl + i 实现方法
+ctrl + option + o 优化import
+ctrl + commond + f 全屏
+ctrl + option + i 格式化代码
+alt + return 万能
+alt + commond + b 查看接口实现类
+alt + commond + 左右 返回上一次操作的地方
+
+fontawesome cs 样式库
+
+
+3 10 10 8 10 5 3 5 7 10 5 5
+
+Jumper 密码： zhanghao@4915
+10.4.226.13: ZHANGHAO4915
+大象 密码：Meituan4915
+Apple ID gmail账号
+	  密码 ZHANGhao4915
+
+Jetbrain 账号 zhanghao68
+		 密码 zhangHAO4915
+
+tomcat 远程debug 开启 java -Xdebug -Xrunjdwp:server=y,transport=dt_socket,address=8000,suspend=n -jar **.jar
